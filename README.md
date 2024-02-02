@@ -12,7 +12,7 @@
 #### For macOS and Linux
 
 Install Hashcat through the package manager.
-    On macOS with Homebrew: brew install hashcat
-    On Linux (Debian-based): sudo apt install hashcat
+        On macOS with Homebrew: brew install hashcat
+        On Linux (Debian-based): sudo apt install hashcat
 
 This project is based on Hashcat v6.2.6.
